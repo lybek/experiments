@@ -1,6 +1,5 @@
 package com.awesome.frank.eggtimer;
 
-import android.media.Image;
 import android.media.MediaPlayer;
 import android.os.CountDownTimer;
 import android.support.v7.app.AppCompatActivity;
@@ -62,11 +61,12 @@ public class MainActivity extends AppCompatActivity {
 
         timer.setVisibility(View.VISIBLE);
         warning.setVisibility(View.INVISIBLE);
+        toggleSeekBarEnabled(timerBar);
         if (isRunning) {
             countDownTimer.cancel();
             updateTimer(timerBar.getProgress());
             button.setText("Start");
-            timerBar.setEnabled(true);
+            //timerBar.setEnabled(true);
             isRunning = false;
             return;
         }
@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
         image.setImageResource(R.drawable.egg);
 
         button = (Button)findViewById(R.id.goButton);
-        timerBar.setEnabled(false);
+        //toggleSeekBarEnabled(timerBar);
         button.setText("Stop");
         isRunning = true;
 
@@ -109,5 +109,18 @@ public class MainActivity extends AppCompatActivity {
         timerBar.setProgress(secondsLeft);
 
         timer.setText((minutes < 10 ? "0" + minutes : minutes) + ":" + (seconds < 10 ? "0" + seconds : seconds));
+    }
+
+    public void toggleSeekBarEnabled(SeekBar seekbar) {
+        if (isRunning) {
+            seekbar.setOnTouchListener(null);
+        } else {
+            seekbar.setOnTouchListener(new View.OnTouchListener() {
+                @Override
+                public boolean onTouch(View v, MotionEvent event) {
+                    return true;
+                }
+            });
+        }
     }
 }
