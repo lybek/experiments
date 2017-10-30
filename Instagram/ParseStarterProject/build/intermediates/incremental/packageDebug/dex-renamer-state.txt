@@ -1,0 +1,7 @@
+#Mon Oct 30 19:57:06 EET 2017
+base.0=/Users/frankluubek/Desktop/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9f0aedd0556f3541c083c4b8b13ce467b917f90b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/frankluubek/Desktop/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0d7483955f1f260905a2c6d6715a2243e7b28126/classes.dex
+base.1=/Users/frankluubek/Desktop/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0d7483955f1f260905a2c6d6715a2243e7b28126
+file.0=/Users/frankluubek/Desktop/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9f0aedd0556f3541c083c4b8b13ce467b917f90b/classes.dex

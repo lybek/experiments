@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:9:1-42:12
+	package
+		ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
+		INJECTED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
+	android:versionCode
+		INJECTED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:14:22-77
+application
+ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:16:5-40:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/frankluubek/.android/build-cache/3b5709072595ad42e3a626a6b1828ce8f44fa940/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/frankluubek/.android/build-cache/534af89a3681ae9e82bfdd9d1ff0d1fe959c3ebf/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/frankluubek/.android/build-cache/26b9073bccb4baa625ef38628230942fa98dfdfb/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/frankluubek/.android/build-cache/8dcff12c22931678ff4174dadb155c3bd68eed63/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/frankluubek/.android/build-cache/623943670c75485169b122ab3f3cb1fc444bb1e2/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:19:9-43
+	android:theme
+		ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:17:9-43
+meta-data#com.parse.APPLICATION_ID
+ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:22:9-24:52
+	android:value
+		ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:23:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:25:9-27:56
+	android:value
+		ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:27:13-53
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:26:13-48
+activity#com.parse.starter.MainActivity
+ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:30:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:35:27-74
+activity#com.parse.starter.UserListActivity
+ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:38:9-54
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:38:19-51
+activity#com.parse.starter.UserFeedActivity
+ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:39:9-63
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:39:19-51
+uses-sdk
+INJECTED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/frankluubek/.android/build-cache/3b5709072595ad42e3a626a6b1828ce8f44fa940/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/frankluubek/.android/build-cache/534af89a3681ae9e82bfdd9d1ff0d1fe959c3ebf/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/frankluubek/.android/build-cache/26b9073bccb4baa625ef38628230942fa98dfdfb/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/frankluubek/.android/build-cache/8dcff12c22931678ff4174dadb155c3bd68eed63/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/frankluubek/.android/build-cache/623943670c75485169b122ab3f3cb1fc444bb1e2/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/frankluubek/.android/build-cache/3b5709072595ad42e3a626a6b1828ce8f44fa940/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/frankluubek/Desktop/Instagram/ParseStarterProject/src/main/AndroidManifest.xml

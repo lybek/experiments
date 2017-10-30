@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/.android/build-cache/623943670c75485169b122ab3f3cb1fc444bb1e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/frankluubek/Desktop/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b76a029350d9ad8afebf4c4b00ffc0458e9bd74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/frankluubek/Desktop/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_14d14956c37ac03132fc360a777afb834acea08a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/Desktop/Instagram/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/frankluubek/Desktop/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0d7483955f1f260905a2c6d6715a2243e7b28126/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/Desktop/Instagram/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dafdf059cfcfc85d7975b69015fff0d7b0c0f300">
+        <dex dex="/Users/frankluubek/Desktop/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9f0aedd0556f3541c083c4b8b13ce467b917f90b/classes.dex" />
+    </item>
+
+</items>
