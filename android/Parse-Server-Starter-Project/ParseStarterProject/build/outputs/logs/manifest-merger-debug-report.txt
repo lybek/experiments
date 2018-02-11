@@ -1,0 +1,466 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
+	package
+		ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
+		INJECTED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
+	android:versionCode
+		INJECTED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/frankluubek/.android/build-cache/d7d9539de6a236a4e46546c2f27c236e4e4d828c/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/frankluubek/.android/build-cache/92f1368b8fe44dd52de71ed977fa12f95f194f3a/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/frankluubek/.android/build-cache/dbbd02e8ea3befb9f66f5b04ec56a4d562849e34/output/AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/frankluubek/.android/build-cache/39e51c87aada96c3783b625421a51ec125a8b7f4/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/frankluubek/.android/build-cache/8a9ae57770f1c17943edcaa67a4bc4eb80122f7d/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/frankluubek/.android/build-cache/257b18051fa1fa907a30b72feb77bc85c46145c4/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/frankluubek/.android/build-cache/cda575686c5d508fdb3b19cc7ddfc0c17312f625/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/frankluubek/.android/build-cache/4facaaaef226078cf25b5421ac10b51cf919505d/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/frankluubek/.android/build-cache/8ac5374d07c676540e26f1bc2d29922a78b13e56/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/frankluubek/.android/build-cache/447b373d1f1b06eb851490fa0b27d3132bf8be9b/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/frankluubek/.android/build-cache/d7d9539de6a236a4e46546c2f27c236e4e4d828c/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/frankluubek/.android/build-cache/92f1368b8fe44dd52de71ed977fa12f95f194f3a/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/frankluubek/.android/build-cache/06766e16f7a6932868c3bcf46227c1481bb4a5ce/output/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/frankluubek/.android/build-cache/cda575686c5d508fdb3b19cc7ddfc0c17312f625/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/frankluubek/.android/build-cache/4facaaaef226078cf25b5421ac10b51cf919505d/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/frankluubek/.android/build-cache/8ac5374d07c676540e26f1bc2d29922a78b13e56/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/frankluubek/.android/build-cache/447b373d1f1b06eb851490fa0b27d3132bf8be9b/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:22-76
+application
+ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:5-48:19
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/frankluubek/.android/build-cache/14b861fa15e81f91b6dec591eba210faa004be6e/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/frankluubek/.android/build-cache/d7d9539de6a236a4e46546c2f27c236e4e4d828c/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/frankluubek/.android/build-cache/92f1368b8fe44dd52de71ed977fa12f95f194f3a/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/frankluubek/.android/build-cache/dbbd02e8ea3befb9f66f5b04ec56a4d562849e34/output/AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/frankluubek/.android/build-cache/95e144914dbb061c58edc99a23f6dfcbe0dec51f/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/frankluubek/.android/build-cache/43862e7a702aff676d9602d7207c5ea08425e8dc/output/AndroidManifest.xml:5:5-9:19
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/frankluubek/.android/build-cache/e746dd850829a536511bd486edb9235ded393866/output/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/frankluubek/.android/build-cache/87457a588cb9e746a46a731022fa342038677793/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/frankluubek/.android/build-cache/3b5709072595ad42e3a626a6b1828ce8f44fa940/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/frankluubek/.android/build-cache/534af89a3681ae9e82bfdd9d1ff0d1fe959c3ebf/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/frankluubek/.android/build-cache/26b9073bccb4baa625ef38628230942fa98dfdfb/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/frankluubek/.android/build-cache/51edeb033d58f428ef4edb280a7889ce5108effc/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/frankluubek/.android/build-cache/0ea2a68a119e1476997f7d1c6853b0c4eb0c23bc/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/frankluubek/.android/build-cache/08499a389e8d1da0656e1f91a1013c8373c9bacc/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/frankluubek/.android/build-cache/39e51c87aada96c3783b625421a51ec125a8b7f4/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/frankluubek/.android/build-cache/849d44d3373b116bd9d24c1477c110a3f71fb295/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/frankluubek/.android/build-cache/b5d54ce8fb6f530a40e9531d97ade12384f23221/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/frankluubek/.android/build-cache/5dddffdab3834d4173ce42fcb5bcb3fe3307e095/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/frankluubek/.android/build-cache/495be3da6bdebd7196192eef143ed2ff550ca1f5/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/frankluubek/.android/build-cache/8748f10637cc680373965a34273cfed5f348f3f6/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/frankluubek/.android/build-cache/743cd313b87e8ecad70b31a6d0737432f355e2ca/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/frankluubek/.android/build-cache/8a9ae57770f1c17943edcaa67a4bc4eb80122f7d/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/frankluubek/.android/build-cache/8bd462d63bce1a19ff92c3e2e4f25f2b418380ed/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/frankluubek/.android/build-cache/257b18051fa1fa907a30b72feb77bc85c46145c4/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/frankluubek/.android/build-cache/bddef69ec066fd2ce6d4a06800732d49d1cc05dc/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/frankluubek/.android/build-cache/06766e16f7a6932868c3bcf46227c1481bb4a5ce/output/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/frankluubek/.android/build-cache/c0dfebbf4916c970a686a35c6e1a9b0dffcf9ea8/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/frankluubek/.android/build-cache/e733d8f7d63736047e8c9c51df09c4366724ae9a/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/frankluubek/.android/build-cache/583f6cb7e2822b418c41a77eedb4d45e5e47e321/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/frankluubek/.android/build-cache/f464597dbcd80f3f95c5f30eb0eb6fedb356d8a1/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/frankluubek/.android/build-cache/cda575686c5d508fdb3b19cc7ddfc0c17312f625/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/frankluubek/.android/build-cache/4facaaaef226078cf25b5421ac10b51cf919505d/output/AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/frankluubek/.android/build-cache/42c027ac91a9e27d80cdba08e03a838c50a3f5b0/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/frankluubek/.android/build-cache/a399362fad29ce2ed0016152cf1e43c83ddd5f70/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/frankluubek/.android/build-cache/8c3dd9ecdfb234a7f980a4c2316628e23606fb84/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/frankluubek/.android/build-cache/8ac5374d07c676540e26f1bc2d29922a78b13e56/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/frankluubek/.android/build-cache/2bd3b10072dc6b2c889d5fd4414a23eae1a4c312/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:11.0.4] /Users/frankluubek/.android/build-cache/a1213656a74c224cd30e0442b17b26bb5d0d3f5f/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/frankluubek/.android/build-cache/447b373d1f1b06eb851490fa0b27d3132bf8be9b/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/frankluubek/.android/build-cache/bd8ecbb1e1dfce369f3456d87c383934aa940f71/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/frankluubek/.android/build-cache/7024308fada7ba87dce1ef156b6b4f2a6e6e0448/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/frankluubek/.android/build-cache/123e812fb1205be7da8fe76526d6eb5d26ad0d62/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/frankluubek/.android/build-cache/eaefdabeb9fc7ef10fbca7c393fffe0bec8a9386/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] /Users/frankluubek/.android/build-cache/8bc5697ef1f9e2fdc373d740babb5dc5d589fd87/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/frankluubek/.android/build-cache/e92ba5531d0a9524d39030bc4107447f14654230/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/frankluubek/.android/build-cache/cf9af1377e79b5ccf6b88434b1f48d9a76e3e8cc/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/frankluubek/.android/build-cache/3850a012d62998983f9aa891588af50161408054/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/frankluubek/.android/build-cache/4b72425c48fcf2a80f5b33e6f7734412ebd3ef98/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/frankluubek/.android/build-cache/c0f7d7d58bd64c9633187e391f28a822d96bc009/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:9-41
+	android:allowBackup
+		ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:9-43
+	android:theme
+		ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:9-43
+activity#com.parse.starter.MainActivity
+ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:41:9-43:55
+	android:value
+		ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:43:13-52
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:42:13-58
+activity#com.parse.starter.RiderActivity
+ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:45:9-47:69
+	android:label
+		ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:47:13-57
+	android:name
+		ADDED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:46:13-42
+uses-sdk
+INJECTED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/frankluubek/.android/build-cache/14b861fa15e81f91b6dec591eba210faa004be6e/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/frankluubek/.android/build-cache/0137efa3399a5404fe5297158b718d1897754bf2/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/frankluubek/.android/build-cache/d7d9539de6a236a4e46546c2f27c236e4e4d828c/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/frankluubek/.android/build-cache/92f1368b8fe44dd52de71ed977fa12f95f194f3a/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/frankluubek/.android/build-cache/dbbd02e8ea3befb9f66f5b04ec56a4d562849e34/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/frankluubek/.android/build-cache/95e144914dbb061c58edc99a23f6dfcbe0dec51f/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] /Users/frankluubek/.android/build-cache/f083cb04e7f01da921aadaa576ee6d67b76f0ccb/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/frankluubek/.android/build-cache/43862e7a702aff676d9602d7207c5ea08425e8dc/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/frankluubek/.android/build-cache/e746dd850829a536511bd486edb9235ded393866/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/frankluubek/.android/build-cache/87457a588cb9e746a46a731022fa342038677793/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/frankluubek/.android/build-cache/3b5709072595ad42e3a626a6b1828ce8f44fa940/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/frankluubek/.android/build-cache/534af89a3681ae9e82bfdd9d1ff0d1fe959c3ebf/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/frankluubek/.android/build-cache/26b9073bccb4baa625ef38628230942fa98dfdfb/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/frankluubek/.android/build-cache/51edeb033d58f428ef4edb280a7889ce5108effc/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/frankluubek/.android/build-cache/0ea2a68a119e1476997f7d1c6853b0c4eb0c23bc/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/frankluubek/.android/build-cache/08499a389e8d1da0656e1f91a1013c8373c9bacc/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/frankluubek/.android/build-cache/39e51c87aada96c3783b625421a51ec125a8b7f4/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/frankluubek/.android/build-cache/849d44d3373b116bd9d24c1477c110a3f71fb295/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/frankluubek/.android/build-cache/b5d54ce8fb6f530a40e9531d97ade12384f23221/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] /Users/frankluubek/.android/build-cache/65f46a0b3124086e956975e2c311709109a066d6/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] /Users/frankluubek/.android/build-cache/8389b69d71f9af2f0f17ebf6b0587a3f543ea86b/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] /Users/frankluubek/.android/build-cache/d2f317e7b91559ed09179efe67d811ea224790db/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage:9.4.0] /Users/frankluubek/.android/build-cache/5128dd44f4b9d3deb3c0645b0e493a2c91cf29e7/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] /Users/frankluubek/.android/build-cache/3692b22c469b25d68b9c57347e5b076f6f14f9f4/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/frankluubek/.android/build-cache/5dddffdab3834d4173ce42fcb5bcb3fe3307e095/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/frankluubek/.android/build-cache/495be3da6bdebd7196192eef143ed2ff550ca1f5/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/frankluubek/.android/build-cache/8748f10637cc680373965a34273cfed5f348f3f6/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/frankluubek/.android/build-cache/743cd313b87e8ecad70b31a6d0737432f355e2ca/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/frankluubek/.android/build-cache/8a9ae57770f1c17943edcaa67a4bc4eb80122f7d/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/frankluubek/.android/build-cache/8bd462d63bce1a19ff92c3e2e4f25f2b418380ed/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/frankluubek/.android/build-cache/257b18051fa1fa907a30b72feb77bc85c46145c4/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/frankluubek/.android/build-cache/bddef69ec066fd2ce6d4a06800732d49d1cc05dc/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/frankluubek/.android/build-cache/06766e16f7a6932868c3bcf46227c1481bb4a5ce/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/frankluubek/.android/build-cache/c0dfebbf4916c970a686a35c6e1a9b0dffcf9ea8/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/frankluubek/.android/build-cache/e733d8f7d63736047e8c9c51df09c4366724ae9a/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/frankluubek/.android/build-cache/583f6cb7e2822b418c41a77eedb4d45e5e47e321/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/frankluubek/.android/build-cache/f464597dbcd80f3f95c5f30eb0eb6fedb356d8a1/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] /Users/frankluubek/.android/build-cache/f97018cc4d3821d29825f3cf6e9e4aea85bd77a0/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/frankluubek/.android/build-cache/cda575686c5d508fdb3b19cc7ddfc0c17312f625/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/frankluubek/.android/build-cache/4facaaaef226078cf25b5421ac10b51cf919505d/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/frankluubek/.android/build-cache/42c027ac91a9e27d80cdba08e03a838c50a3f5b0/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] /Users/frankluubek/.android/build-cache/2e9149ea6d20870ef1bc709b3013aabd2ebb5ce3/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/frankluubek/.android/build-cache/a399362fad29ce2ed0016152cf1e43c83ddd5f70/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/frankluubek/.android/build-cache/8c3dd9ecdfb234a7f980a4c2316628e23606fb84/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.0] /Users/frankluubek/.android/build-cache/f5af47c64928793692ea4e3ff0520b8dce0730e4/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/frankluubek/.android/build-cache/8ac5374d07c676540e26f1bc2d29922a78b13e56/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/frankluubek/.android/build-cache/2bd3b10072dc6b2c889d5fd4414a23eae1a4c312/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] /Users/frankluubek/.android/build-cache/a1213656a74c224cd30e0442b17b26bb5d0d3f5f/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/frankluubek/.android/build-cache/447b373d1f1b06eb851490fa0b27d3132bf8be9b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/frankluubek/.android/build-cache/bd8ecbb1e1dfce369f3456d87c383934aa940f71/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/frankluubek/.android/build-cache/7024308fada7ba87dce1ef156b6b4f2a6e6e0448/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/frankluubek/.android/build-cache/123e812fb1205be7da8fe76526d6eb5d26ad0d62/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/frankluubek/.android/build-cache/eaefdabeb9fc7ef10fbca7c393fffe0bec8a9386/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /Users/frankluubek/.android/build-cache/8bc5697ef1f9e2fdc373d740babb5dc5d589fd87/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/frankluubek/.android/build-cache/e92ba5531d0a9524d39030bc4107447f14654230/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/frankluubek/.android/build-cache/cf9af1377e79b5ccf6b88434b1f48d9a76e3e8cc/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/frankluubek/.android/build-cache/3850a012d62998983f9aa891588af50161408054/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/frankluubek/.android/build-cache/4b72425c48fcf2a80f5b33e6f7734412ebd3ef98/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /Users/frankluubek/.android/build-cache/c0f7d7d58bd64c9633187e391f28a822d96bc009/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/frankluubek/.android/build-cache/3b5709072595ad42e3a626a6b1828ce8f44fa940/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/frankluubek/.android/build-cache/d7d9539de6a236a4e46546c2f27c236e4e4d828c/output/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/frankluubek/.android/build-cache/d7d9539de6a236a4e46546c2f27c236e4e4d828c/output/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/frankluubek/.android/build-cache/d7d9539de6a236a4e46546c2f27c236e4e4d828c/output/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/frankluubek/.android/build-cache/d7d9539de6a236a4e46546c2f27c236e4e4d828c/output/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/frankluubek/.android/build-cache/d7d9539de6a236a4e46546c2f27c236e4e4d828c/output/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/frankluubek/.android/build-cache/d7d9539de6a236a4e46546c2f27c236e4e4d828c/output/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/frankluubek/.android/build-cache/d7d9539de6a236a4e46546c2f27c236e4e4d828c/output/AndroidManifest.xml:30:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/frankluubek/.android/build-cache/92f1368b8fe44dd52de71ed977fa12f95f194f3a/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/frankluubek/.android/build-cache/cda575686c5d508fdb3b19cc7ddfc0c17312f625/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/frankluubek/.android/build-cache/447b373d1f1b06eb851490fa0b27d3132bf8be9b/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/frankluubek/.android/build-cache/92f1368b8fe44dd52de71ed977fa12f95f194f3a/output/AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/frankluubek/.android/build-cache/dbbd02e8ea3befb9f66f5b04ec56a4d562849e34/output/AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/frankluubek/.android/build-cache/dbbd02e8ea3befb9f66f5b04ec56a4d562849e34/output/AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/frankluubek/.android/build-cache/dbbd02e8ea3befb9f66f5b04ec56a4d562849e34/output/AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/frankluubek/.android/build-cache/dbbd02e8ea3befb9f66f5b04ec56a4d562849e34/output/AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/frankluubek/.android/build-cache/dbbd02e8ea3befb9f66f5b04ec56a4d562849e34/output/AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/frankluubek/.android/build-cache/dbbd02e8ea3befb9f66f5b04ec56a4d562849e34/output/AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/frankluubek/.android/build-cache/dbbd02e8ea3befb9f66f5b04ec56a4d562849e34/output/AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/frankluubek/.android/build-cache/dbbd02e8ea3befb9f66f5b04ec56a4d562849e34/output/AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/frankluubek/.android/build-cache/dbbd02e8ea3befb9f66f5b04ec56a4d562849e34/output/AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/frankluubek/.android/build-cache/95e144914dbb061c58edc99a23f6dfcbe0dec51f/output/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/frankluubek/.android/build-cache/95e144914dbb061c58edc99a23f6dfcbe0dec51f/output/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/frankluubek/.android/build-cache/95e144914dbb061c58edc99a23f6dfcbe0dec51f/output/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/frankluubek/.android/build-cache/95e144914dbb061c58edc99a23f6dfcbe0dec51f/output/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/frankluubek/.android/build-cache/95e144914dbb061c58edc99a23f6dfcbe0dec51f/output/AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/frankluubek/.android/build-cache/95e144914dbb061c58edc99a23f6dfcbe0dec51f/output/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/frankluubek/.android/build-cache/95e144914dbb061c58edc99a23f6dfcbe0dec51f/output/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/frankluubek/.android/build-cache/95e144914dbb061c58edc99a23f6dfcbe0dec51f/output/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/frankluubek/.android/build-cache/95e144914dbb061c58edc99a23f6dfcbe0dec51f/output/AndroidManifest.xml:29:13-58
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/frankluubek/.android/build-cache/43862e7a702aff676d9602d7207c5ea08425e8dc/output/AndroidManifest.xml:6:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/frankluubek/.android/build-cache/43862e7a702aff676d9602d7207c5ea08425e8dc/output/AndroidManifest.xml:6:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/frankluubek/.android/build-cache/43862e7a702aff676d9602d7207c5ea08425e8dc/output/AndroidManifest.xml:7:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/frankluubek/.android/build-cache/43862e7a702aff676d9602d7207c5ea08425e8dc/output/AndroidManifest.xml:7:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/frankluubek/.android/build-cache/43862e7a702aff676d9602d7207c5ea08425e8dc/output/AndroidManifest.xml:8:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/frankluubek/.android/build-cache/43862e7a702aff676d9602d7207c5ea08425e8dc/output/AndroidManifest.xml:8:18-90
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/frankluubek/.android/build-cache/39e51c87aada96c3783b625421a51ec125a8b7f4/output/AndroidManifest.xml:26:9-27:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/frankluubek/.android/build-cache/39e51c87aada96c3783b625421a51ec125a8b7f4/output/AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/frankluubek/.android/build-cache/39e51c87aada96c3783b625421a51ec125a8b7f4/output/AndroidManifest.xml:26:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/frankluubek/.android/build-cache/39e51c87aada96c3783b625421a51ec125a8b7f4/output/AndroidManifest.xml:29:9-30:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/frankluubek/.android/build-cache/39e51c87aada96c3783b625421a51ec125a8b7f4/output/AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/frankluubek/.android/build-cache/39e51c87aada96c3783b625421a51ec125a8b7f4/output/AndroidManifest.xml:29:18-77
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/frankluubek/.android/build-cache/8a9ae57770f1c17943edcaa67a4bc4eb80122f7d/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/frankluubek/.android/build-cache/257b18051fa1fa907a30b72feb77bc85c46145c4/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/frankluubek/.android/build-cache/8a9ae57770f1c17943edcaa67a4bc4eb80122f7d/output/AndroidManifest.xml:21:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/frankluubek/.android/build-cache/4facaaaef226078cf25b5421ac10b51cf919505d/output/AndroidManifest.xml:25:9-27:42
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/frankluubek/.android/build-cache/4facaaaef226078cf25b5421ac10b51cf919505d/output/AndroidManifest.xml:27:17-39
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/frankluubek/.android/build-cache/4facaaaef226078cf25b5421ac10b51cf919505d/output/AndroidManifest.xml:26:17-41
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/frankluubek/.android/build-cache/4facaaaef226078cf25b5421ac10b51cf919505d/output/AndroidManifest.xml:25:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/frankluubek/.android/build-cache/4facaaaef226078cf25b5421ac10b51cf919505d/output/AndroidManifest.xml:28:9-37:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/frankluubek/.android/build-cache/4facaaaef226078cf25b5421ac10b51cf919505d/output/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/frankluubek/.android/build-cache/4facaaaef226078cf25b5421ac10b51cf919505d/output/AndroidManifest.xml:29:13-87
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/frankluubek/.android/build-cache/4facaaaef226078cf25b5421ac10b51cf919505d/output/AndroidManifest.xml:31:13-36:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/frankluubek/.android/build-cache/4facaaaef226078cf25b5421ac10b51cf919505d/output/AndroidManifest.xml:32:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/frankluubek/.android/build-cache/4facaaaef226078cf25b5421ac10b51cf919505d/output/AndroidManifest.xml:32:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/frankluubek/.android/build-cache/4facaaaef226078cf25b5421ac10b51cf919505d/output/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/frankluubek/.android/build-cache/4facaaaef226078cf25b5421ac10b51cf919505d/output/AndroidManifest.xml:33:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/frankluubek/.android/build-cache/4facaaaef226078cf25b5421ac10b51cf919505d/output/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/frankluubek/.android/build-cache/4facaaaef226078cf25b5421ac10b51cf919505d/output/AndroidManifest.xml:35:27-75
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/frankluubek/.android/build-cache/8ac5374d07c676540e26f1bc2d29922a78b13e56/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/frankluubek/.android/build-cache/8ac5374d07c676540e26f1bc2d29922a78b13e56/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/frankluubek/.android/build-cache/8ac5374d07c676540e26f1bc2d29922a78b13e56/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/frankluubek/.android/build-cache/2bd3b10072dc6b2c889d5fd4414a23eae1a4c312/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/frankluubek/.android/build-cache/2bd3b10072dc6b2c889d5fd4414a23eae1a4c312/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/frankluubek/.android/build-cache/2bd3b10072dc6b2c889d5fd4414a23eae1a4c312/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/frankluubek/.android/build-cache/2bd3b10072dc6b2c889d5fd4414a23eae1a4c312/output/AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/frankluubek/.android/build-cache/447b373d1f1b06eb851490fa0b27d3132bf8be9b/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/frankluubek/.android/build-cache/447b373d1f1b06eb851490fa0b27d3132bf8be9b/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/AndroidManifest.xml:33:16-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/frankluubek/.android/build-cache/bd8ecbb1e1dfce369f3456d87c383934aa940f71/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/frankluubek/.android/build-cache/bd8ecbb1e1dfce369f3456d87c383934aa940f71/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/frankluubek/.android/build-cache/bd8ecbb1e1dfce369f3456d87c383934aa940f71/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/frankluubek/.android/build-cache/bd8ecbb1e1dfce369f3456d87c383934aa940f71/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/frankluubek/.android/build-cache/bd8ecbb1e1dfce369f3456d87c383934aa940f71/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/frankluubek/.android/build-cache/bd8ecbb1e1dfce369f3456d87c383934aa940f71/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/frankluubek/.android/build-cache/bd8ecbb1e1dfce369f3456d87c383934aa940f71/output/AndroidManifest.xml:25:25-75
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/frankluubek/.android/build-cache/7024308fada7ba87dce1ef156b6b4f2a6e6e0448/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/frankluubek/.android/build-cache/7024308fada7ba87dce1ef156b6b4f2a6e6e0448/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/frankluubek/.android/build-cache/7024308fada7ba87dce1ef156b6b4f2a6e6e0448/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/frankluubek/.android/build-cache/7024308fada7ba87dce1ef156b6b4f2a6e6e0448/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/frankluubek/.android/build-cache/7024308fada7ba87dce1ef156b6b4f2a6e6e0448/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/frankluubek/.android/build-cache/eaefdabeb9fc7ef10fbca7c393fffe0bec8a9386/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/frankluubek/.android/build-cache/eaefdabeb9fc7ef10fbca7c393fffe0bec8a9386/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/frankluubek/.android/build-cache/eaefdabeb9fc7ef10fbca7c393fffe0bec8a9386/output/AndroidManifest.xml:20:20-65

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/frankluubek/.android/build-cache/84861e1759a70c99edb2c1fe6c6d97eda286b1dd/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/frankluubek/.android/build-cache/84861e1759a70c99edb2c1fe6c6d97eda286b1dd/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/frankluubek/.android/build-cache/84861e1759a70c99edb2c1fe6c6d97eda286b1dd/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    }
+]

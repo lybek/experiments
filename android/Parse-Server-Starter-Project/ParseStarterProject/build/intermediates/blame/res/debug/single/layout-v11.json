@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/frankluubek/.android/build-cache/76ab547d2a28b8c1f397c9045229b7afccf3a5a5/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/frankluubek/.android/build-cache/76ab547d2a28b8c1f397c9045229b7afccf3a5a5/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/frankluubek/.android/build-cache/76ab547d2a28b8c1f397c9045229b7afccf3a5a5/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/frankluubek/.android/build-cache/76ab547d2a28b8c1f397c9045229b7afccf3a5a5/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/frankluubek/.android/build-cache/76ab547d2a28b8c1f397c9045229b7afccf3a5a5/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/frankluubek/.android/build-cache/76ab547d2a28b8c1f397c9045229b7afccf3a5a5/output/res/layout-v11/notification_template_big_media.xml"
+    }
+]

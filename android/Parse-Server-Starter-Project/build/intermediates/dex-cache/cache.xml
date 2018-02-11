@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/.android/build-cache/bb35db612b03372754a0d152300d20e26a6dc455/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48c5e8eb244fbc5cadff9f4c731e9f6d48c505c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/.android/build-cache/123e812fb1205be7da8fe76526d6eb5d26ad0d62/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_94d2a1ded7344b07600b3536e079eb2e4841d370/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/.android/build-cache/2bd3b10072dc6b2c889d5fd4414a23eae1a4c312/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a19ccf91c1ed6ce4f2f3befa9a045649a4f0163/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/.android/build-cache/3850a012d62998983f9aa891588af50161408054/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_636fda2396974486b85914e79d6e84d7a51cd0c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/.android/build-cache/c0f7d7d58bd64c9633187e391f28a822d96bc009/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_96452237d1acc7bae61fc4d445227f726e04d697/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/.android/build-cache/cf9af1377e79b5ccf6b88434b1f48d9a76e3e8cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c097182101a26e9e32aa7bf2d3ea645bcf4ef8b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/.android/build-cache/8ac5374d07c676540e26f1bc2d29922a78b13e56/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7e9f34a853a6687ddd5098afeedcbfb9eeca12f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_250d9a3af4217b59217935c9d53356ce759a4a07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/.android/build-cache/bd8ecbb1e1dfce369f3456d87c383934aa940f71/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99b054719dc835856de8af87632658b065363220/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/.android/build-cache/7024308fada7ba87dce1ef156b6b4f2a6e6e0448/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e06337de565d23915e14aa013402381025b28e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/.android/build-cache/1c98cad9ec8b8816ed6ba27fdd7cd5b16eba4b14/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9dcc1127f6b242bbb043acd1be3ea7a498dd3ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/.android/build-cache/8bc5697ef1f9e2fdc373d740babb5dc5d589fd87/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a3482b386e3072cf246735219d7eb1ea8382486/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/.android/build-cache/e92ba5531d0a9524d39030bc4107447f14654230/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02555cdc26b38c66484ed947f3f9c448ec4dfe33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/.android/build-cache/4b72425c48fcf2a80f5b33e6f7734412ebd3ef98/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c8646a01699376e253cba88102d10a18af91794/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04a77e9ad7574ff3fa8f112a06437d070f502000">
+        <dex dex="/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8fc61f30e01099d3f312e7e954f1cb6c9749c08e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/.android/build-cache/447b373d1f1b06eb851490fa0b27d3132bf8be9b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e080c1c87d7f04dc70597507043e8f8343128ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/.android/build-cache/eaefdabeb9fc7ef10fbca7c393fffe0bec8a9386/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_694f534c45c6e694cba403bf457880f1988a6c8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/frankluubek/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7cf87de092160f9dd8d77d0d3da3016f3c75988a/classes.dex" />
+    </item>
+
+</items>
